@@ -1,8 +1,9 @@
 //your JS code here. If required.
 
-function same(){
+function functionName(){
 	alert(arguments.callee.name)
 }
-same()
+functionName()
+
 
 
